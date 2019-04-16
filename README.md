@@ -9,7 +9,7 @@ Everything you need to learn in chronological order to become a professional Ang
 
 - [X] [JavaScript ES6 tutorial](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
 - [X] [Principles of functional programming in JavaScript](https://flaviocopes.com/javascript-functional-programming/)
-- [O] [Functional Programming with JavaScript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
+- [X] [Functional Programming with JavaScript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
 
 ### TypeScript:
 
